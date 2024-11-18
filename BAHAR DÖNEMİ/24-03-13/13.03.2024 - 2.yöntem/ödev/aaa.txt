@@ -1,0 +1,6 @@
+ÖDEV
+formun üzerine bir tane edit, bir tane buton ekleyiniz edit nesnesine sadece sayý giriniz 
+eðer girilen sayý negatif yada 10 dan büyükse hata mesajý verir
+buna göre;girilen sayýnýnb faktöriyeli hesaplanýr ve girilen sayý,faktöriyel sonucu ve 
+kayýt tarih ve saati bilgiler.accdb isimli dosyaya kayýt yapan programýý yapýnýz
+ 
